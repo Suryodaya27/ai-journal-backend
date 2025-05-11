@@ -21,6 +21,9 @@ A modern journaling application that leverages AI to generate insights, summarie
 - **Caching & Rate Limiting:** Redis
 - **Task Automation:** Cron Jobs
 
+## Design
+![alt text](image.png)
+
 ## 📌 Installation
 
 1. Clone the repository:
